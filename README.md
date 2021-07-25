@@ -28,7 +28,7 @@ npm run lint
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-## Project URL
+### Project URL
 
 ```
 https://yuewang0321.github.io/weather-project/
