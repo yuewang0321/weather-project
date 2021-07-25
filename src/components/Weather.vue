@@ -1,5 +1,5 @@
 <template>
-  <div v-if="city">
+  <div v-if="weatherData.city">
     <a-row :gutter="[16, 30]">
       <a-col class="heading">
         <a-icon

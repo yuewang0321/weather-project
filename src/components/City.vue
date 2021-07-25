@@ -61,8 +61,6 @@ export default defineComponent({
       return newData;
     });
 
-    // const openDetails = () => {};
-
     return { startCase, cardData, moment };
   },
 });
